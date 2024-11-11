@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://img.odcdn.com.br/cdn-cgi/image/width=1280,height=720,fit=cover/wp-content/uploads/2024/06/imagem_2024-06-03_124736652.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+ text-align: center;
+ 
+}
+
+p{
+    text-align: center;
+}

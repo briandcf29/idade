@@ -1,0 +1,34 @@
+body{
+  background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/03/ghost-of-tsushima-complete-guide-gamerant-feature-1.jpg);
+}
+
+.container{
+  padding: 15px;
+
+  display: flex;
+
+  justify-items: center;
+  flex-direction: column;
+  border-radius: 15px;
+  color: rgba(211, 6, 6, 0.952);
+  background-color: rgba(0, 0, 0, 0.473);
+  position: absolute;
+bottom: 24%;
+right: 20%;
+
+}
+
+p{
+  color: rgb(223, 255, 251);
+}
+
+button{
+  color: rgb(199, 0, 0);
+  background-color: rgb(29, 25, 25);
+
+}
+
+input{
+  background-color: black;
+  color: red;
+}
